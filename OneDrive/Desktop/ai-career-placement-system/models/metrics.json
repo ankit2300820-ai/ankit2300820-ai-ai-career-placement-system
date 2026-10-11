@@ -1,0 +1,55 @@
+{
+  "best_model": "Logistic Regression",
+  "cv_auc": {
+    "Logistic Regression": 0.7680778044979508,
+    "Random Forest": 0.7454302392207488,
+    "Gradient Boosting": 0.7463902693481252
+  },
+  "features": [
+    "cgpa",
+    "tenth_pct",
+    "twelfth_pct",
+    "backlogs",
+    "internships",
+    "projects",
+    "certifications",
+    "coding_score",
+    "communication",
+    "aptitude",
+    "hackathons",
+    "num_skills"
+  ],
+  "importances": {
+    "cgpa": 0.12549709391883782,
+    "tenth_pct": 0.029400913675503564,
+    "twelfth_pct": 0.013730258047166514,
+    "backlogs": 0.18967255442404807,
+    "internships": 0.11538005000301636,
+    "projects": 0.12738513800332962,
+    "certifications": 0.03382259718944051,
+    "coding_score": 0.09145558702997662,
+    "communication": 0.06556704533054991,
+    "aptitude": 0.057024541683215614,
+    "hackathons": 0.05688079064495885,
+    "num_skills": 0.09418343004995651
+  },
+  "metrics": {
+    "accuracy": 0.68,
+    "precision": 0.7134502923976608,
+    "recall": 0.7218934911242604,
+    "f1": 0.7176470588235294,
+    "roc_auc": 0.7511856904105877,
+    "confusion": [
+      [
+        164,
+        98
+      ],
+      [
+        94,
+        244
+      ]
+    ],
+    "train_rows": 2400,
+    "test_rows": 600
+  }
+}

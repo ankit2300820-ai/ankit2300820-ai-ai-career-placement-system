@@ -1,0 +1,15 @@
+name,tier,min_cgpa,max_backlogs,min_10th,min_12th,required_skills,roles,avg_package_lpa
+TCS,Mass Recruiter,6.0,1,60,60,Java;SQL;Data Structures;OOP,Software Developer,4.0
+Infosys,Mass Recruiter,6.0,0,60,60,Python;SQL;DBMS;OOP,Software Developer,4.5
+Wipro,Mass Recruiter,6.0,1,60,60,Java;SQL;Computer Networks,Software Developer,4.0
+Cognizant,Mass Recruiter,6.0,0,60,60,Java;SQL;Data Structures,Software Developer,4.5
+Accenture,Service,6.5,0,60,60,Python;SQL;Data Structures;Git,Software Developer,5.0
+Capgemini,Service,6.5,0,60,60,Java;SQL;Operating Systems;OOP,Software Developer,4.5
+Deloitte,Consulting,7.0,0,65,65,SQL;Excel;Python;Statistics,Data Analyst,7.0
+Zoho,Product,6.5,0,60,60,Data Structures;Algorithms;Java;DBMS,Backend Developer,7.0
+Amazon,Product,7.0,0,70,70,Data Structures;Algorithms;OOP;Problem Solving,Software Developer,20.0
+Microsoft,Product,7.5,0,70,70,Data Structures;Algorithms;OOP;Git,Software Developer,25.0
+Mu Sigma,Analytics,6.5,0,60,60,Python;SQL;Statistics;Excel,Data Analyst,6.0
+Fractal Analytics,Analytics,7.0,0,65,65,Python;Machine Learning;Pandas;SQL,Data Scientist,10.0
+Persistent Systems,Product,7.0,0,65,65,Java;SQL;Data Structures;Git,Backend Developer,6.5
+Red Hat,Product,7.0,0,65,65,Linux;Python;Git;Docker,DevOps Engineer,12.0
